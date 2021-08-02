@@ -20,6 +20,3 @@ getnames 以玩家的UUID获取其Minecraft昵称、曾用名(仅支持在线模
 ```
 
 
-
-
-
